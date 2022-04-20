@@ -39,7 +39,7 @@ Run the simulation on Wokwi, publish the message on Broker and then see on Wokwi
 - Port: 1883
 - Click on diskette button (upper right corner of the screen) to save
 
-# Subscribe LED
+# Publish (Turn ON/OFF) LED
 -  Click on Broker
 -  Click on '+' button (upper right corner of the screen)
 -  Choose type: 'Switch/Button'
