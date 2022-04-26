@@ -21,7 +21,7 @@ Language: Portuguese
 # Publish
 - Topic: sala306/led
 - QoS: 0
-- Message: Digit '1' or 'on' to turn the LED on // Digit '0' or 'off' to turn the LED off
+- Message: Digit '1' to turn the LED on // Digit '0' to turn the LED off
 - Click on 'Publish'
 
 # Subscriptions - Add new Topic (Optional)
