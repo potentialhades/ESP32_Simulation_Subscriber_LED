@@ -24,6 +24,8 @@ Language: Portuguese
 - Message: Digit '1' to turn the LED on // Digit '0' to turn the LED off
 - Click on 'Publish'
 
+Run the simulation on Wokwi, publish the message on Broker and then see on Wokwi project the LED turns ON/OFF
+
 # Subscriptions - Add new Topic (Optional)
 - Topic: sala306/led 
 - QoS: 0
